@@ -1,0 +1,659 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.753);
+ }
+ /*birinci basladi*/
+ .container-1{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 80%;
+    /*margin: auto;*/
+    margin-top: 40px;
+ }
+ .box{
+    width: 50px;
+    text-align: center;
+   padding: 10px;
+   
+ }
+ .box-1{
+    background-color: pink;
+ }
+ .box-2{
+    background-color: purple;
+ }
+ .box-3{
+    background-color: rgb(90, 4, 90);
+ }
+ .box-4{
+    background-color: rgb(55, 21, 225);
+ }.box-5{
+    background-color: aquamarine;
+ }
+ .box-6{
+    background-color: greenyellow;
+ }
+ .box-7{
+    background-color: green;
+ }
+ .box-8{
+    background-color: yellow;
+ }
+ .box-9{
+    background-color: orange;
+ }
+ .box-10{
+    background-color: orangered;
+ }/*birinci bitdi*/
+ /*ikinci basladi*/.container-2{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin-top: 40px;
+    /*margin: auto;*/
+ }
+ .boxx{
+    width: 50px;
+    text-align: center;
+   padding: 10px;
+ }
+ .box-one{
+    background-color: pink;
+ }
+ .box-two{
+    background-color: purple;
+ }
+ .box-three{
+    background-color: rgb(90, 4, 90);
+ }
+ .box-four{
+    background-color: rgb(55, 21, 225);
+ }.box-five{
+    background-color: aquamarine;
+ }
+ .box-fix{
+    background-color: greenyellow;
+ }
+ .box-sevn{
+    background-color: green;
+ }
+ .box-eight{
+    background-color: yellow;
+ }
+ .box-nine{
+    background-color: orange;
+ }
+ .box-ten{
+    background-color: orangered;
+ }/*ikinci bitdi*/
+
+
+ /*ucuncu basladi*/ 
+ .container-3{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    margin-top: 40px;
+    /*margin: auto;*/
+ }
+ .boxxx{
+    width: 50px;
+    text-align: center;
+   padding: 10px;
+ }
+ .box-bir{
+    background-color: pink;
+ }
+ .box-iki{
+    background-color: purple;
+ }
+ .box-uc{
+    background-color: rgb(90, 4, 90);
+ }
+ .box-dord{
+    background-color: rgb(55, 21, 225);
+ }.box-bes{
+    background-color: aquamarine;
+ }
+ .box-alti{
+    background-color: greenyellow;
+ }
+ .box-yedi{
+    background-color: green;
+ }
+ .box-sekiz{
+    background-color: yellow;
+ }
+ .box-doquz{
+    background-color: orange;
+ }
+ .box-on{
+    background-color: orangered;
+ } /*ucuncu bitdi*/
+
+ /*dorduncu basladi*/
+ .container-4{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-top: 40px;
+    /*margin: auto;*/
+ }
+ .boxxx{
+    width: 50px;
+   padding: 10px;
+ }
+ .box-pink{
+    background-color: rgb(235, 28, 166);
+ }
+ .box-purple{
+    background-color: purple;
+ }
+ .box-aqua{
+    background-color: aqua;
+ }
+ .box-greenyellow{
+    background-color: greenyellow;
+ }.box-yellow{
+    background-color: yellow;
+ } /*dorduncu bitdi*/
+
+ /*besinci basladi*/
+ .container-5{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 40px;
+   /* margin: auto;*/
+ }
+ .boxxx{
+    width: 50px;
+   padding: 10px;
+ }
+ .box-pink{
+    background-color: rgb(235, 28, 166);
+ }
+ .box-purple{
+    background-color: purple;
+ }
+ .box-aqua{
+    background-color: aqua;
+ }
+ .box-greenyellow{
+    background-color: greenyellow;
+ }.box-yellow{
+    background-color: yellow;
+ } /*besinci bitdi*/
+
+ /*altinci basladi*/
+ .container-6{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin-top: 40px;
+   /* margin: auto;*/
+ }
+ .boxxx{
+    width: 50px;
+   padding: 10px;
+ }
+ .box-pink{
+    background-color: rgb(235, 28, 166);
+ }
+ .box-purple{
+    background-color: purple;
+ }
+ .box-aqua{
+    background-color: aqua;
+ }
+ .box-greenyellow{
+    background-color: greenyellow;
+ }.box-yellow{
+    background-color: yellow;
+ } /*altinci bitdi*/
+
+ /*sekil2-nin birincisi*/
+ .container-7{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+   /* margin: auto;*/
+ }
+ .icon{
+    width: 30px;
+    height: 220px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+ }
+ .red{
+    background-color: brown;
+ }
+ .pink{
+    background-color: palevioletred;
+ }
+ .purple{
+    background-color: purple;
+    height: 50px;
+ }
+ .blue{
+    background-color: blue;
+ }
+.aqua{
+    background-color: aqua;
+}
+.green{
+    background-color: green;
+}
+.greenyellow{
+    background-color: greenyellow;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.redorange{
+    background-color: orangered;
+} /*sekil ikinin 1cisi bitdi*/
+
+/*sekil ikinin ikincisi start*/
+.container-8{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+   /* margin: auto;*/
+}
+.iconx{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+align-self: center;
+ }
+
+ .purple1{
+    background-color: purple;
+    height: 220px;
+ }
+ 
+
+ /*sekil ikinin 2cisi bitdi*/
+
+/*sekil2nin 3-cusu start*/
+.container-9{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+   /* margin: auto;*/
+}
+.button{
+    width: 30px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: bold;
+    color: white;
+}
+
+ .purple2{
+    background-color: purple;
+    display: flex;
+ }
+ .blue{
+    background-color: blue;
+ }
+.aqua{
+    background-color: aqua;
+}
+
+ /*sekil ikinin 3cusu bitdi*/
+
+/*sekil ikinin 4cusu start*/
+.container-10{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+   /* margin: auto;*/
+}
+.button{
+    width: 30px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: bold;
+    color: white;
+}
+
+ .purple3{
+    background-color: purple;
+    height: 30px;
+    display: flex;
+    align-self: center;
+ }
+ .blue2{
+    background-color: blue;
+ }
+.aqua2{
+    background-color: aqua;
+}
+
+/*sekil ikinin 4cusu bitdi*/
+
+/*sekil 2nin 5cisi strat*/
+.container-11{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+   /* margin: auto;*/
+}
+.class{
+    width: 30px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: bold;
+    color: white;
+}
+
+.purplee{
+    background-color: purple;
+    height: 36px;
+    font-size: 25px;
+    display: flex;
+    margin-top: 15px;
+}
+.bluee{
+    background-color: blue;
+    height: 80px;
+    font-size: 40px;
+    font-weight: bold;
+    width: 45px;
+}
+.aquamarin{
+    background-color: aqua;
+    height: 25px; 
+    margin-top: 20px;
+}
+ /*sekil ikinin 5cisi bitdi*/
+/*sekil2nin 6cisi*/
+.container-12{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+   /* margin: auto;*/
+}
+.purpledif{
+    background-color: purple;
+    height: 30px;
+    display: flex;
+    align-self: self-end;
+}/*sekil 2nin 6cisi end*/
+/*sekil 3un 1cisi*/
+.container1{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+}
+.row{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: bold;
+    color: white;
+} /*sekil3un 1cisi bitdi*/
+/*sekil3un ikincisi start*/
+.container2{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    align-content: space-between;
+} /*sekil3un 2cisi bitdi*/
+/*sekil3un 3cusu*/
+.container3{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}/*3un 3cusu bitdi*/
+/*3un 4cusu start*/
+.container4{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.select{
+    width: 100px;
+    height: 30px;
+    justify-content: center;
+    text-align: center;
+    font-size: bold;
+    color: white;
+}/*3un 4cusu end*/
+/*3un 5cisi start*/
+.container5{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    align-content: center;
+}/*3un 5cisi end*/
+/*3un 6cisi start*/
+.container6{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    align-content: end;
+}/*3un 6cisi end*/
+/*3un 7cisi start*/
+.container7{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 240px;
+    height: 200px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.size{
+    width: 80px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: bold;
+    color: white;
+}/*3un 7cisi end*/
+/*4un 1cisi start*/
+.container41{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+    height: 200px;
+}
+.boks{
+    width: 30px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+}/*4un 1cisi end*/
+/*4un 2cisi start*/
+.container42{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+    height: 200px;
+    align-items: center;
+}/*4un 2cisi end*/
+/*4un 3cusu start*/
+.container43{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+    height: 200px;
+    align-items: end;
+}/*4un 3cusu end*/
+/*4un 4cusu start*/
+.container44{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+    height: 200px;
+}
+.main{
+    width: 30px;
+   height: 40px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.bluedark{
+    background-color: blue;
+    font-size: 60px;
+    font-weight: bold;
+}/*4un 4cusu end*/
+/*4un 5cisi start*/
+.container45{
+    background-color: black;
+    border: 3px solid red;
+    display: flex;
+    width: 30%;
+    margin-top: 40px;
+    height: 200px;
+    justify-content: baseline;
+}
+.teq{
+    width: 30px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 30px;
+}
+.red-1{
+    background-color: red;
+    height: 50px;
+}
+.pink-1{
+    background-color: pink;
+    height: 50px;
+}
+.purple-1{
+    background-color: purple;
+    height: 40px;
+}
+.bluedark-1{
+    background-color: blue;
+    height: 50px;
+}
+.aqua-1{
+    background-color: aqua;
+    height: 70px;
+}
+.green-1{
+    background-color: green;
+    height: 50px;
+}
+.greenyellow-1{
+    background-color: greenyellow;
+    height: 35px;
+}
+.yellow-1{
+    background-color: yellow;
+    height: 80px;
+    font-size: 60px;
+}
+.orange-1{
+    background-color: orange;
+    height: 50px;
+}
+.redorange-1{
+    background-color: orangered;
+    height: 50px;
+}
+/*4cunun 5cisi end*/
+
